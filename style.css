@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+}
+/* .dmain{
+    width: 900px;
+    height: 900px;
+    border: 2px solid black;
+    margin: 40px 50px 50px;
+
+} */
+.pone{
+    background-color: #34495E;
+    color: #ffffff;
+    text-align: center;
+    padding: 9px;
+    border-top: 3px solid #3498DB;
+}
+.sone{
+    color: #348FD4;
+}
+ .done {
+    background: #7AB99C;
+    width: 362px;
+    height: 133px;
+    text-align: center;
+    margin: auto;
+    border: 3px solid #2C3E50;
+    box-shadow: 2px 2px 5px;
+    padding: 18px;
+    }
+
+.dtwo{
+    width: 537px;
+    height: 121px;
+    background: #E67E22;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding: 20px;
+    border-radius: 0px 40px 40px 0px;
+    border-left: 4px solid #3498DB;
+    box-shadow: 4px 4px 10px #3498DB;
+}
+.ptwo{
+    margin-top: 0;
+}
+.fas{
+    font-size: 50px;
+    color: green;
+}
+.dthree{
+    width: 565px;
+    height: 120px;
+    background-color: #1ABC9C;
+    margin-top: 25px;
+    margin-left: 506px;
+    padding: 20px;
+    border-radius: 40px 0px 0px 40px;
+    text-align: right;
+    box-shadow: 4px 4px 10px #9149AF;
+    border-right: 4px solid #9149AF;
+}
+.pthree{
+    margin: 0;
+   
+}
+.dthree i{
+    color: red;
+}
+
+.dfour{
+    width: 362px;
+    height: 160px;
+    background: #E74C3C;
+    margin-left: 253px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 39px;
+    border-radius: 140px 140px 0px 0px;
+    border-top: 5px solid #EEA31B;
+    box-shadow: 4px 4px 10px #EEA31B;;
+}
+.pfive{
+    margin: 0;
+}
+.fab{
+    font-size: 50px;
+}
+.psix{
+    background-color: #34495E;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+    border-top: 4px solid #7FBEE8;
+}
